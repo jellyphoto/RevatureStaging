@@ -1,0 +1,16 @@
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\AlmostPalindrome.exe
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\AlmostPalindrome.deps.json
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\AlmostPalindrome.runtimeconfig.json
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\AlmostPalindrome.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\ref\AlmostPalindrome.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\bin\Debug\net6.0\AlmostPalindrome.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.GlobalUsings.g.cs
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.csproj.AssemblyReference.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.AssemblyInfoInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.AssemblyInfo.cs
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.csproj.CoreCompileInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\ref\AlmostPalindrome.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-13\AlmostPalindrome\obj\Debug\net6.0\AlmostPalindrome.genruntimeconfig.cache
