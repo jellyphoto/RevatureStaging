@@ -1,0 +1,16 @@
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.GlobalUsings.g.cs
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.csproj.AssemblyReference.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.AssemblyInfoInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.AssemblyInfo.cs
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.csproj.CoreCompileInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\StaircaseOfRecursion.exe
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\StaircaseOfRecursion.deps.json
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\StaircaseOfRecursion.runtimeconfig.json
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\StaircaseOfRecursion.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\ref\StaircaseOfRecursion.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\bin\Debug\net6.0\StaircaseOfRecursion.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\ref\StaircaseOfRecursion.dll
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-13\StaircaseOfRecursion\obj\Debug\net6.0\StaircaseOfRecursion.genruntimeconfig.cache
