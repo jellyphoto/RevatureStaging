@@ -1,0 +1,16 @@
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.GlobalUsings.g.cs
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.csproj.AssemblyReference.cache
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.AssemblyInfoInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.AssemblyInfo.cs
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.csproj.CoreCompileInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\DeadEnd_Cs.exe
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\DeadEnd_Cs.deps.json
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\DeadEnd_Cs.runtimeconfig.json
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\DeadEnd_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\ref\DeadEnd_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\bin\Debug\net6.0\DeadEnd_Cs.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\ref\DeadEnd_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-20\DeadEnd_Cs\obj\Debug\net6.0\DeadEnd_Cs.genruntimeconfig.cache
