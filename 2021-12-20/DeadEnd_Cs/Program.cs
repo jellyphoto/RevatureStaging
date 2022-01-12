@@ -4,7 +4,7 @@ namespace DeadEnd_Cs;
 
 public class Program{
     public static void Main(string[] args){
-        int n = 0;
+        long n = 0;
 
         Console.WriteLine("Enter a positive integer");
         try{
@@ -13,7 +13,12 @@ public class Program{
             Console.WriteLine(e.Message);
         }
 
-        Console.WriteLine(Functions.DigitSum(n));
-        
+        Console.WriteLine($"Digit Sum: {Functions.DigitSum(n)}");
+
+        Tuple<int, long> result = Functions.DeadEnd(n);
+        Console.WriteLine($"Series Length: {result.Item1}");
+        Console.WriteLine($"Last Term: {result.Item2}");
+
+        Console.ReadKey();
     }
 }
