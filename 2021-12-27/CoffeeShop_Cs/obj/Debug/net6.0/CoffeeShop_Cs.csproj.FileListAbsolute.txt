@@ -1,0 +1,16 @@
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\CoffeeShop_Cs.exe
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\CoffeeShop_Cs.deps.json
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\CoffeeShop_Cs.runtimeconfig.json
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\CoffeeShop_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\ref\CoffeeShop_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\bin\Debug\net6.0\CoffeeShop_Cs.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.GlobalUsings.g.cs
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.csproj.AssemblyReference.cache
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.AssemblyInfoInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.AssemblyInfo.cs
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.csproj.CoreCompileInputs.cache
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\ref\CoffeeShop_Cs.dll
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.pdb
+C:\Revature\Repos\RevatureStaging\2021-12-27\CoffeeShop_Cs\obj\Debug\net6.0\CoffeeShop_Cs.genruntimeconfig.cache
