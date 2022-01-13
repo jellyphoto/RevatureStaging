@@ -5,13 +5,14 @@ namespace CoffeeShop_Cs.models;
 public class CoffeeShop{
     private string _name;
     public string name {get{return _name;}}
-    private Menu menu {get;}
+    private Menu _menu;
+    public Menu menu {get{return _menu;}}
     private Queue<string> orders {get;}
 
     //constructor
     public CoffeeShop(string name){
         _name = name;
-        menu = new Menu();
+        _menu = new Menu();
         orders = new Queue<string>();
     }
 
