@@ -2,14 +2,14 @@ using System;
 namespace CoffeeShop_Cs.models;
 
 public class Menu{
-    private enum ItemType {food, drink}
     //private Dictionary<string, List<Menu>> _menuItems;
-    private Dictionary<string, List<MenuItem>> menuItems {get;}
+    private Dictionary<string, List<MenuItem>> _menuItems;
+    public Dictionary<string, List<MenuItem>> menuItems {get{return _menuItems;}}
 
     public Menu(){
-        menuItems = new Dictionary<string, List<MenuItem>>();
-        menuItems.Add("food", new List<MenuItem>());
-        menuItems.Add("drink", new List<MenuItem>());
+        _menuItems = new Dictionary<string, List<MenuItem>>();
+        _menuItems.Add("food", new List<MenuItem>());
+        _menuItems.Add("drink", new List<MenuItem>());
     }
 
     //methods
@@ -23,7 +23,7 @@ public class Menu{
         }
         newItem.item = item;
         newItem.price = price;
-        menuItems[type].Add(newItem);
+        _menuItems[type].Add(newItem);
     }
 
     public string display(){
@@ -31,7 +31,7 @@ public class Menu{
         view += "|| Menu ||";
         view += "\n";
 
-        foreach(KeyValuePair<string, List<MenuItem>> pair in menuItems){
+        foreach(KeyValuePair<string, List<MenuItem>> pair in _menuItems){
             view += "\n" + pair.Key.ToUpper() + ":\n";
             foreach(MenuItem menuItem in pair.Value){
                 view += menuItem.item + "\t" + menuItem.price.ToString() + "\n";
@@ -40,20 +40,72 @@ public class Menu{
         return view;
     }
 
+    public MenuItem findItemByName(string name){
+        MenuItem output = null;
+        bool found = false;
+        foreach(string key in _menuItems.Keys){
+            foreach(MenuItem item in _menuItems[key]){
+                if(item.item.ToLower().Equals(name.Trim().ToLower())){
+                    if(item.type.ToString().ToLower().Equals("food")){
+                        output = new MenuItem();
+                    }else{
+                        output = new MenuItem("drink");
+                    }
+                    output.item = name;
+                    output.price = item.price;
 
-    //-------------------------------------------------------------------
-    //MenuItem Class
-    private class MenuItem{
-        private string? _item;
-        protected internal string? item {get {return _item;} set {_item = value;}}
-        ItemType type {get;}
-        private double _price;
-        protected internal double price {get {return _price;} set {_price = value;}}
-        protected internal MenuItem(){
-            type = ItemType.food;
+                    found = true;
+                    break;
+                }
+            }
+            if(found){
+                break;
+            }
         }
-        protected internal MenuItem(string altType1){
-            type = ItemType.drink;
+        return output;
+    }
+
+    public MenuItem findCheapestItem(){
+        MenuItem output = null;
+        foreach(string key in _menuItems.Keys){
+            if(output is null){
+                output = findCheapestItemByType(key);
+            }else{
+                MenuItem temp = findCheapestItemByType(key);
+                if(temp.price < output.price){
+                    output = temp;
+                }
+            }
         }
+        return output;
+    }
+
+    public MenuItem findCheapestItemByType(string type){
+        type = type.Trim().ToLower();
+        if(_menuItems.ContainsKey(type)){
+            List<MenuItem> items = _menuItems[type];
+
+            if(items.Count.Equals(0)){
+                return null;
+            }
+
+            MenuItem temp = items[0];
+            for(int i=1; i<items.Count; i++){
+                if(items[i].price < temp.price){
+                    temp = items[i];
+                }
+            }
+
+            MenuItem cheapest;
+            if(type.Equals("food")){
+                cheapest = new MenuItem();
+            }else{
+                cheapest = new MenuItem(type);
+            }
+            cheapest.item = temp.item;
+            cheapest.price = temp.price;
+            return cheapest;
+        }
+        else return null;
     }
 }
